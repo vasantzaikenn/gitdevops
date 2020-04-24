@@ -1,0 +1,8 @@
+main()
+{
+func1()
+{
+func1(){
+devA
+}
+}
