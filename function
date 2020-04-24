@@ -2,7 +2,13 @@ main()
 {
 function1()
 {
-function3(){
+function3()
+{
 developerB
+}
+}
+function2()
+{
+developerA
 }
 }
