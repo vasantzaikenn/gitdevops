@@ -4,5 +4,10 @@ func5()
 {
 func4(){
 developerA
+
+func1()
+{
+func3(){
+developerC
 }
 }

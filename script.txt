@@ -1,0 +1,12 @@
+main()
+{
+func1()
+{
+func1(){
+devA
+func2()
+{
+func2(){
+devB
+}
+}
