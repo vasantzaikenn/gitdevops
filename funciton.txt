@@ -1,8 +1,8 @@
 main()
 {
-function1()
+function9()
 {
-function2(){
+function7(){
 developerA
 }
 }
